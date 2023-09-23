@@ -1,0 +1,25 @@
+body{
+	background: red;
+}
+.one{
+	border-bottom: 1px solid white;
+}
+center{
+	border-top: 5px double green;
+}
+img{
+	border-radius: 300px;
+	border: 20px dashed gold;
+}
+img:hover{
+	border-radius: 400px;
+	border: 30px dotted blue;
+}
+h1{
+ font-size: 20px;
+ color: black;
+}
+h1:hover{
+ font-size: 50px;
+ color: white;
+}
